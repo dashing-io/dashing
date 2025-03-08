@@ -1,11 +1,15 @@
-# [Dashing](http://shopify.github.com/dashing)
-[![Build Status](https://secure.travis-ci.org/Shopify/dashing.png?branch=master)](http://travis-ci.org/Shopify/dashing)
+# Slock.it smart contracts
 
-Dashing is a Sinatra based framework that lets you build beautiful dashboards. It looks especially great on TVs.
+## What is it?
+The Ethereum solidity smart contracts for the Slock.it project
 
-[Check out the homepage](http://shopify.github.com/dashing).
+## Contact
+Please contact us on our [slack](https://slockt.slack.com/)
+## Linux install
+```
+git clone https://github.com/slockit/smart-contract.git
+cd smart-contract
+sudo chmod +x install.sh
+./install.sh
+```
 
-Note: Dashing is no longer being actively maintained. Read about it [here](https://github.com/Shopify/dashing/issues/711). There is a fork of the project being maintained at at [https://github.com/dashing-io/dashing](https://github.com/dashing-io/dashing)
-
-# License
-Distributed under the [MIT license](MIT-LICENSE)
