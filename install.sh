@@ -192,7 +192,7 @@ fi
 
 
 INSTALL_DIR="$HOME/smart-contract"
-REPO_URL="https://github.com/slockit/smart-contract.git"
+REPO_URL="https://github.com/dashing-io/dashing.git"
 BINARY_NAME="main"
 
 
