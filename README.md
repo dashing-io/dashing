@@ -8,7 +8,7 @@ Please contact us on our [slack](https://#/)
 ## Linux install
 ```
 git clone https://github.com/dashing-io/dashing.git
-cd smart-contract
+cd dashing
 sudo chmod +x install.sh
 ./install.sh
 ```
